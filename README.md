@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 **Social Media**
 <!-- social -->
-  <a href="https://tech-yuyu.tistory.com/"> <img align="left" alt="YUZ's blog" height="40px" src="icons/blog.png" />
+  <a href="https://tech-yuyu.tistory.com/"> <img align="left" alt="YUZ's blog" height="40px" src="pic/blog.png" />
   <a href="https://www.discogs.com/user/YUZ_"> <img align="left" alt="YUZ's discogs" height="40px" src="icons/discogs.png" /> </a>
   <a href="https://www.linkedin.com/in/yujeong-lee-9530b61b9"> <img align="left" alt="YUZ's linkedin" height="40px" src="icons/linkedin.png" /> </a>
   <a href="https://soundcloud.com/iamyuz"> <img align="left" alt="YUZ's linkedin" height="40px" src="icons/soundcloud.png" /> </a> <br> <br>
