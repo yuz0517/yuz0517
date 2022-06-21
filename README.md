@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi, I'm YuJeong 🙋‍♀️🎵
+<img src="pic/undertaledog.gif" height="20px"> <img src="pic/mother3ghost.gif" height="20px"><img src="pic/kumatora.png" height="20px"><br>
 <a href="https://www.youtube.com/watch?v=mRbpDwLcb94"><img align="center" src="pic/yuj.jfif" height="200px"></a>
-<img align="center" src="pic/undertaledog.gif" height="50px">
-<img align="center" src="pic/mother3ghost.gif" height="50px">
-<img align="center" src="pic/kumatora.png" height="70px">
+
+
+
 - 💻 개발자 취업을 목표로 하고 있습니다.
 - ✏학부에서는 computer science 를 전공하였으며 현재 computer education 석사과정 재학중입니다.
 - 💿 음반 수집과 🏊‍♀️ 수영을 좋아합니다.
@@ -64,3 +65,6 @@ Here are some ideas to get you started:
   <a href="" target="_blank"> 
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> 
   </a>
+  
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
