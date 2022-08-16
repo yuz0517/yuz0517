@@ -72,8 +72,11 @@ Here are some ideas to get you started:
   <a href="" target="_blank"> 
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> 
   </a>
-   <a href="" target="_blank"> 
+  <a href="" target="_blank"> 
     <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-   </a>
+  </a>
+  <a href="" target="_blank"> 
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    </a>
   <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
