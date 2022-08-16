@@ -55,6 +55,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
   </a>
   
+  <a>
+    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> 
+  </a>
+  
 <!--Tools-->
   <a href="" target="_blank"> 
     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/> 
