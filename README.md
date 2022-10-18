@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <a href="https://soundcloud.com/iamyuz"> <img align="left" alt="YUZ's linkedin" height="40px" src="icons/soundcloud.png" /> </a> <br> <br>
   
 **백준 티어**
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuz0517yuz@gmail.com)](https://solved.ac/yuz0517yuz@gmail.com/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuz0517yuz)](https://solved.ac/yuz0517yuz/)
  
 **Languages and Tools**
 
