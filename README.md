@@ -31,7 +31,8 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/yujeong-lee-9530b61b9"> <img align="left" alt="YUZ's linkedin" height="40px" src="icons/linkedin.png" /> </a>
   <a href="https://soundcloud.com/iamyuz"> <img align="left" alt="YUZ's linkedin" height="40px" src="icons/soundcloud.png" /> </a> <br> <br>
   
-  
+**백준 티어**
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuz0517yuz@gmail.com)](https://solved.ac/yuz0517yuz@gmail.com/)
  
 **Languages and Tools**
 
