@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - 💻 개발자 취업을 목표로 하고 있습니다.
 - ✏학부에서는 computer science 를 전공하였으며 현재 computer education 석사과정 재학중입니다.
 - 💿 음반 수집과 🏊‍♀️ 수영을 좋아합니다.
+- 🌱 현재 리액트를 열심히 공부하고 있습니다.
 
 **Social Media**
 <!-- social -->
