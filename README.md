@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hi, I'm YuJeong 🙋‍♀️🎵
 
-<a href="https://www.youtube.com/watch?v=mRbpDwLcb94"><img align="center" src="pic/yuj.jfif" height="200px"></a>
+<a href="https://www.youtube.com/watch?v=mRbpDwLcb94"></a>
 
 
 
