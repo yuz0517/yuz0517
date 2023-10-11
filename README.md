@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi, I'm YuJeong 🙋‍♀️🎵
-<img src="pic/undertaledog.gif" height="20px"> <img src="pic/mother3ghost.gif" height="20px"><img src="pic/kumatora.png" height="20px"><br>
+
 <a href="https://www.youtube.com/watch?v=mRbpDwLcb94"><img align="center" src="pic/yuj.jfif" height="200px"></a>
 
 
